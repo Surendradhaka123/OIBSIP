@@ -1,4 +1,4 @@
-# OIBGRIP
+# OIBSIP
 This repository contains 3 task of Oasis infobyte Data Science internship.
 Each task folder containts all neccessary files of particular project.
 I have also included pickle file of trained model which can be directly accessed for prediction of the output.
